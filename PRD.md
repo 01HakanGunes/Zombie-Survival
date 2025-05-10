@@ -23,6 +23,7 @@ Zombie Survival is a web-based multiplayer top-down shooter where players cooper
 
 - Node.js runtime environment
 - Express.js server framework
+- TypeScript for type-safe code
 - WebSocket protocol for real-time communication
 - In-memory non-persistent data storage for active game sessions
 

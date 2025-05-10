@@ -29,7 +29,7 @@ Zombie Survival is a web-based multiplayer top-down shooter where players cooper
 
 ### Frontend
 
-- React for UI components and game UI
+- Nextjs for ui and game ui as the main frontend framework
 - TypeScript for type-safe code
 - HTML5 Canvas for game rendering
 - WebSocket client for real-time communication with server

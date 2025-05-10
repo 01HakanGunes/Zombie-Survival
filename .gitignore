@@ -15,22 +15,7 @@ Thumbs.db
 *.swo
 *.tmp
 
-# Env files (keep credentials secret)
 .env
-.env.local
 
-# Build artifacts (if any build steps or bundling later)
 dist/
 build/
-
-# Client-side cache or temp files
-client/.cache/
-client/.temp/
-
-# VS Code settings (optional)
-.vscode/
-
-# Docker
-*.container
-*.pid
-docker-compose.override.yml
